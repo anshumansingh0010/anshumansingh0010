@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anshuman Singh
 
-[![](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+with+React+%2B+TypeScript;Exploring+C%2B%2B+%26+Systems+Programming)](https://git.io/typing-svg)
+
 
 [![](https://komarev.com/ghpvc/?username=anshumansingh0010&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/anshumansingh0010) [![GitHub followers](https://img.shields.io/github/followers/anshumansingh0010?label=Followers&style=social)](https://github.com/anshumansingh0010)
 
